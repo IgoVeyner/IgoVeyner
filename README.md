@@ -13,7 +13,7 @@ Ruby | Ruby on Rails | JavaScript | React | Redux
 HTML | CSS | Git | SQL
 
 ### 💼 Contact:
-* [Email](igorveyner95@gmail.com)
+* [Email](mailto:igorveyner95@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/igorveyner/)
 * [Medium](https://igor-veyner.medium.com/)
 
