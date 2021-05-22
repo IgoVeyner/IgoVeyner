@@ -9,8 +9,8 @@ Over the course of 10 months, the Flatiron School challenged me to grow my skill
 ---
 
 ### 💻 Skills 📚:
-* Ruby * Ruby on Rails * JavaScript * React * Redux
-* HTML * CSS * Git ( version control ) * SQL
++ Ruby + Ruby on Rails + JavaScript + React + Redux
++ HTML + CSS + Git ( version control ) + SQL
 
 ### 💼 Contact:
 * [Email](igorveyner95@gmail.com)
