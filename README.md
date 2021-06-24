@@ -8,6 +8,11 @@ Over the course of 10 months, [The Flatiron School](https://flatironschool.com/)
 
 ---
 
+### 📕 Portfolio 🖱️
+:white_medium_small_square: http://igorveyner.com/
+
+---
+
 ### 💻 Skills 📚
 Ruby :white_medium_small_square: Ruby on Rails :white_medium_small_square: JavaScript :white_medium_small_square:
 React :white_medium_small_square: Redux <br>
