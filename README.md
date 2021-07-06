@@ -1,4 +1,4 @@
-# <div align="center"> :wave: Igor Veyner <em> (He/Him) </em> :space_invader: Full Stack Engineer :desktop_computer: </div>
+# <div align="center"> :wave: Igor Veyner <em> (He/Him) </em> :space_invader: Software Engineer :desktop_computer: </div>
 
 Thousands of apps are released daily to solve problems big and small. My dream is to be part of that community striving to create a better world. Software development is my way of doing so.
 
