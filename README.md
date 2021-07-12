@@ -14,10 +14,8 @@ Over the course of 10 months, [The Flatiron School](https://flatironschool.com/)
 ---
 
 ### 💻 Skills 📚
-Ruby :white_medium_small_square: Ruby on Rails :white_medium_small_square: JavaScript :white_medium_small_square:
-React :white_medium_small_square: Redux <br>
-HTML :white_medium_small_square: 
-CSS :white_medium_small_square: Git :white_medium_small_square: SQL 
+Ruby :white_medium_small_square: Ruby on Rails :white_medium_small_square: JavaScript :white_medium_small_square: React :white_medium_small_square: Redux <br>
+HTML :white_medium_small_square: CSS :white_medium_small_square: Git :white_medium_small_square: SQL :white_medium_small_square: SQLite :white_medium_small_square: PostgreSQL
 
 ---
 
