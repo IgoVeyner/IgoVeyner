@@ -9,7 +9,7 @@ Over the course of 10 months, [The Flatiron School](https://flatironschool.com/)
 ---
 
 ### 📕 Portfolio 🖱️
-:white_medium_small_square: http://igorveyner.com/
+:white_medium_small_square: https://igorveyner.com/
 
 ---
 
